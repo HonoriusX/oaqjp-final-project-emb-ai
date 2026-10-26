@@ -1,0 +1,7 @@
+/home/project/final_project
+{"emotionPredictions":[{"emotion":{"anger":0.6674731, "disgust":0.022848725, "fear":0.09749009, "joy":0.011863918, "sadness":0.1953058}, "target":"", "emotionMentions":[{"span":{"begin":0, "end":26, "text":"I am really mad about this"}, "emotion":{"anger":0.6674731, "disgust":0.022848725, "fear":0.09749009, "joy":0.011863918, "sadness":0.1953058}}]}], "producerId":{"name":"Ensemble Aggregated Emotion Workflow", "version":"0.0.1"}}
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.592s
+
+OK
